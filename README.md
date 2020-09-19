@@ -1,2 +1,2 @@
 # beview
-https://https://bedrockviz.linketrack.com/
+https://bedrockviz.linketrack.com/
